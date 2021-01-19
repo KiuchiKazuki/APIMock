@@ -1,0 +1,46 @@
+{
+  "list": [
+    {
+      "id": "632a9991-8bbb-cab0-1a07-82877f211d4f",
+      "name": "BOB",
+      "datetime": "2020-12-09T06:42:01Z",
+      "message": "やあアリス！元気かい？",
+      "read": true
+    },
+    {
+      "id": "1dbac76a-0833-590b-44d0-a139684f0ffb",
+      "name": "Alice",
+      "datetime": "2020-12-09T12:09:33Z",
+      "message": "こんにちは！ボブ\nまあまあね。\nあなたは？",
+      "read": true
+    },
+    {
+      "id": "dfad3ebc-4569-b001-8c65-ab314ad47004",
+      "name": "BOB",
+      "datetime": "2020-12-09T12:09:59Z",
+      "message": "最高さ！\n昨日のディナーはTボーンステーキだったからね！",
+      "read": true
+    },
+    {
+      "id": "e998589a-2f48-72bd-d05b-a9ae467f7542",
+      "name": "Alice",
+      "datetime": "2020-12-09T12:13:56Z",
+      "message": "そう、よかったね",
+      "read": true
+    },
+    {
+      "id": "36182cc9-243f-7783-3dec-9c29b23ed42d",
+      "name": "BOB",
+      "datetime": "2020-12-09T19:01:01Z",
+      "message": "こんばんはアリス！\n今日のディナーもTボーンステーキさ！\nうらやましい？",
+      "read": true
+    },
+    {
+      "id": "0e24a13c-1340-3aea-8ae3-1bd0e89d2483",
+      "name": "BOB",
+      "datetime": "2020-12-09T21:22:56Z",
+      "message": "やあアリス！\n明日はもっといいことあると良いね。\nおやすみ！",
+      "read": true
+    }
+  ]
+}
