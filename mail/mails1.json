@@ -1,0 +1,40 @@
+{
+  "list": [
+    {
+      "id": "ac6ec389-eeb9-8593-53bd-8c60920a836c",
+      "from": "bob@email.com",
+      "to": "alice@email.com",
+      "datetime": "2020-12-08T21:34:56Z",
+      "subject": "おやすみ！！",
+      "body": "やあアリス！\n明日はもっといいことあると良いね。\nおやすみ！",
+      "read": false
+    },
+    {
+      "id": "00b796e7-1f1f-ba37-3bc6-b7c887a7d7cd",
+      "from": "bob@email.com",
+      "to": "alice@email.com",
+      "datetime": "2020-12-08T16:33:01Z",
+      "subject": "こんばんは！！",
+      "body": "こんばんはアリス！\n今日のディナーはTボーンステーキさ！\nうらやましい？",
+      "read": true
+    },
+    {
+      "id": "2b370d9b-c9a0-9ca6-3c75-fbcf68f9c0e8",
+      "from": "bob@email.com",
+      "to": "alice@email.com",
+      "datetime": "2020-12-08T10:06:11Z",
+      "subject": "こんにちは！！",
+      "body": "こんにちはアリス！\n元気にしてるかな？こっちは寒くて大変だよ。\n今度遊びに行くね！！",
+      "read": true
+    },
+    {
+      "id": "bd716983-2612-412b-54b6-1de01f89c145",
+      "from": "bob@email.com",
+      "to": "alice@email.com",
+      "datetime": "2020-12-08T08:22:34Z",
+      "subject": "おはよう！！",
+      "body": "おはようアリス！\n今日も一日がんばろう！",
+      "read": true
+    }
+  ]
+}
